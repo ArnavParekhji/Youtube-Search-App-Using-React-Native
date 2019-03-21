@@ -5,7 +5,7 @@ import SearchBar from './components/SearchBar';
 import AppHeader from './components/Header';
 import VideoList from './components/VideoList';
 
-const API_KEY = 'AIzaSyBpf9ValcW1tUV3N9NoSElyyrfQsxqSwSA';
+const API_KEY = 'insert api key here';
 
 export default class App extends React.Component {
 
